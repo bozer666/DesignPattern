@@ -1,10 +1,7 @@
 package creational_patterns.abstract_factory;
 
 import creational_patterns.abstract_factory.app.Application;
-import creational_patterns.abstract_factory.factories.GUIFactory;
-import creational_patterns.abstract_factory.factories.MacOSFactory;
-import creational_patterns.abstract_factory.factories.WindowsFactory;
-import creational_patterns.creative_mode.abstract_factory.factories.*;
+import creational_patterns.abstract_factory.factories.*;
 
 /**
  * Demo class. Everything comes together here.

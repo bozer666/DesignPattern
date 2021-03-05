@@ -1,9 +1,6 @@
 package creational_patterns.prototype;
 
-import creational_patterns.creative_mode.prototype.shapes.*;
-import creational_patterns.prototype.shapes.Circle;
-import creational_patterns.prototype.shapes.Rectangle;
-import creational_patterns.prototype.shapes.Shape;
+import creational_patterns.prototype.shapes.*;
 
 import java.util.ArrayList;
 import java.util.List;

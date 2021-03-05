@@ -1,8 +1,6 @@
 package creational_patterns.factory_method.factory;
 
-import creational_patterns.creative_mode.factory_method.buttons.*;
-import creational_patterns.factory_method.buttons.Button;
-import creational_patterns.factory_method.buttons.WindowsButton;
+import creational_patterns.factory_method.buttons.*;
 
 /**
  * 具体创建者 WindowsDialog

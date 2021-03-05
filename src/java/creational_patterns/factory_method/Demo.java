@@ -1,9 +1,6 @@
 package creational_patterns.factory_method;
 
-import creational_patterns.creative_mode.factory_method.factory.*;
-import creational_patterns.factory_method.factory.Dialog;
-import creational_patterns.factory_method.factory.HtmlDialog;
-import creational_patterns.factory_method.factory.WindowsDialog;
+import creational_patterns.factory_method.factory.*;
 
 public class Demo {
 
