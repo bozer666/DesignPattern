@@ -14,6 +14,9 @@
 #### 4.[中介者模式](https://refactoringguru.cn/design-patterns/mediator) (mediator)
 > 中介者模式是一种行为设计模式， 能让你减少对象之间混乱无序的依赖关系。 该模式会限制对象之间的直接交互， 迫使它们通过一个中介者对象进行合作。
 
+#### 5.[备忘录模式](https://refactoringguru.cn/design-patterns/memento) (memento)
+> 备忘录模式是一种行为设计模式， 允许在不暴露对象实现细节的情况下保存和恢复对象之前的状态。
+
 
 
 
