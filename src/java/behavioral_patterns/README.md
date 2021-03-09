@@ -17,6 +17,9 @@
 #### 5.[备忘录模式](https://refactoringguru.cn/design-patterns/memento) (memento)
 > 备忘录模式是一种行为设计模式， 允许在不暴露对象实现细节的情况下保存和恢复对象之前的状态。
 
+#### 6.[观察者模式](https://refactoringguru.cn/design-patterns/observer) (observer)
+> 观察者模式是一种行为设计模式， 允许你定义一种订阅机制， 可在对象事件发生时通知多个 “观察” 该对象的其他对象。
+
 
 
 
