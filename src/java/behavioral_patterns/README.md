@@ -23,6 +23,9 @@
 #### 7.[状态模式](https://refactoringguru.cn/design-patterns/state) (state)
 > 状态模式是一种行为设计模式， 让你能在一个对象的内部状态变化时改变其行为， 使其看上去就像改变了自身所属的类一样。
 
+#### 8.[策略模式](https://refactoringguru.cn/design-patterns/strategy) (strategy)
+> 策略模式是一种行为设计模式， 它能让你定义一系列算法， 并将每种算法分别放入独立的类中， 以使算法的对象能够相互替换。
+
 
 
 
