@@ -20,6 +20,9 @@
 #### 6.[观察者模式](https://refactoringguru.cn/design-patterns/observer) (observer)
 > 观察者模式是一种行为设计模式， 允许你定义一种订阅机制， 可在对象事件发生时通知多个 “观察” 该对象的其他对象。
 
+#### 7.[状态模式](https://refactoringguru.cn/design-patterns/state) (state)
+> 状态模式是一种行为设计模式， 让你能在一个对象的内部状态变化时改变其行为， 使其看上去就像改变了自身所属的类一样。
+
 
 
 
