@@ -26,6 +26,9 @@
 #### 8.[策略模式](https://refactoringguru.cn/design-patterns/strategy) (strategy)
 > 策略模式是一种行为设计模式， 它能让你定义一系列算法， 并将每种算法分别放入独立的类中， 以使算法的对象能够相互替换。
 
+#### 9.[模板方法模式](https://refactoringguru.cn/design-patterns/template-method) (template-method)
+> 模板方法模式是一种行为设计模式， 它在超类中定义了一个算法的框架， 允许子类在不修改结构的情况下重写算法的特定步骤。
+
 
 
 
